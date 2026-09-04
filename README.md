@@ -46,3 +46,6 @@ Missing `date_added` values from the original dataset were retained as missing b
 ## Conclusion
 
 The Netflix dataset was successfully cleaned and preprocessed using **Python and Pandas**. The cleaned dataset is now ready for further data analysis and visualization.
+
+##  Author
+**Samrina**
